@@ -25,3 +25,9 @@ import x from './x'
 ```
 
 这种单一的写法就够了。
+
+References
+==========
+
+- 详细解释什么是non es-module，以及怎么解决: https://stackoverflow.com/a/39415662/342235
+- `esModuleInterop`推荐设为`true`: https://stackoverflow.com/a/51758340/342235
